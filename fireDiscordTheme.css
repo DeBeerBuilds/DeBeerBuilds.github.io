@@ -1,0 +1,21 @@
+.channelName-2YrOjO{
+    color: orange;
+}
+.containerDefault--pIXnN .iconContainer-1BBaeJ[aria-label="Text"]{
+    background-image: url("https://raw.githubusercontent.com/DeBeerBuilds/FireDiscordTheme/master/images/fire-icon.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.containerDefault--pIXnN:hover .iconContainer-1BBaeJ[aria-label="Text"]{
+    background-image: url("https://raw.githubusercontent.com/DeBeerBuilds/FireDiscordTheme/master/images/fire-icon.gif");
+}
+
+.containerDefault--pIXnN .iconContainer-1BBaeJ[aria-label="Text"] svg{
+    visibility: hidden;
+}
+
+.message-2qnXI6{
+}
